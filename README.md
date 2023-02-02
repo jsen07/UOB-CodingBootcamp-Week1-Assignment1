@@ -1,6 +1,6 @@
 # UOB-CodingBootcamp-Week1-Assignment1
 
-The following file/folders contains the source code for the first challenge that commenced on the 26/01/23 of the first week of the UOB coding bootcamp. The aim of the task is to refacor the given index.html and stlye.css source file to improve the quality of code without changing the functionality and to meet certain acceptance criterias.
+The following file/folders contains the source code for the first challenge that commenced on the 26/01/23 of the first week of the UOB coding bootcamp. The aim of the task is to refactor the given index.html and stlye.css source file to improve the quality of code without changing the functionality and to meet certain acceptance criterias.
 
 The following images below display evidence that my source code is functional within the github pages site.
 
